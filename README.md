@@ -1,2 +1,3 @@
-# nevblok_8266
-a small operating system for nodemcu esp8266 made by me
+# about nevblok_8266
+it was written in C++ and C
+nothing special
